@@ -1,1 +1,1 @@
-console.log("hello");
+(()=>{"use strict";const o=console.log("work?");console.log("hello"),o()})();
