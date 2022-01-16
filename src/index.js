@@ -7,7 +7,7 @@ const home = document.querySelector("#homeButton");
 const menu = document.querySelector("#menuButton");
 const contactUs = document.querySelector("#contactButton");
 console.log("hello");
-
+createHome();
 home.addEventListener("click", (e) => {
   createHome();
 });
